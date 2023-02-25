@@ -18,6 +18,6 @@ It's widely been used to create superuser by creating username as well as it's p
    f).profile creation and setting default.jpg as an extension by using signals.py file.
 
 5).usage of wide range of libraries such as:
-a).PIP install pillow --- for uploading various photos by setting default.jpg and images etc. 
-b).pip install django-crispy-forms==1.14.0 --- to align forms in an appropriate manner.
+a). Pillow --- for uploading various photos by setting default.jpg and images etc. 
+b). django-crispy-forms==1.14.0 --- to align forms in an appropriate manner.
 
